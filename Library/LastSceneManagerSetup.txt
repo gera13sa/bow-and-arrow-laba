@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/WreckBow/Scenes/WreckBowDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
